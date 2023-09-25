@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prework Study Guide was created to assist learners in web development prework and to provide a consolidated resource for easier learning. It organizes study materials for HTML, CSS, Git, and JavaScript. What I learnt is structuring content, styling, Git basics, and the importance of clear documentation.
+This Prework Study Guide was created to assist learners in web development prework and to provide a consolidated resource for easier learning. It organizes study materials for HTML, CSS, Git, and JavaScript. What I learnt is structuring content, styling, Git basics, and the importance of clear documentation. Therefore overall I have learnt quite a lot during this process.
 
 ## Installation
 
